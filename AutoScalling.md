@@ -58,3 +58,7 @@ rsyslog.confで外部Syslogサーバへ転送する。
 ### systemd-journald
 
 永続保存設定(Storage=persistent)を見直し、必要に応じて集約先へ転送する。
+
+
+## AWSのAutoScalingの整理　スケーリングポリシー編
+https://blog.takuros.net/entry/2020/08/11/082712
